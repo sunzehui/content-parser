@@ -21,7 +21,7 @@
   "types": "type/index.d.ts",
   "dependencies": {
     "@ridi/parser-core": "0.7.4-alpha.1",
-    "pdfjs-dist": "^2.7.570",
+    "pdfjs-dist": "2.7.570",
     "uuid": "^8.3.2"
   },
   "devDependencies": {

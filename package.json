@@ -1,4 +1,5 @@
 {
+  "version": "0.7.4-alpha.1",
   "scripts": {
     "clean": "rimraf ./*.log && lerna exec --parallel -- rimraf coverage lib/* temp",
     "build": "yarn clean && lerna exec --parallel -- babel src --out-dir lib --config-file ../../.babelrc",
